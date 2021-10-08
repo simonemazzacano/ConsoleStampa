@@ -1,0 +1,7 @@
+C:\Users\simone.mazzacano.ITT\source\repos\ConsoleStampa\ConsoleStampa\bin\Debug\ConsoleStampa.exe.config
+C:\Users\simone.mazzacano.ITT\source\repos\ConsoleStampa\ConsoleStampa\bin\Debug\ConsoleStampa.exe
+C:\Users\simone.mazzacano.ITT\source\repos\ConsoleStampa\ConsoleStampa\bin\Debug\ConsoleStampa.pdb
+C:\Users\simone.mazzacano.ITT\source\repos\ConsoleStampa\ConsoleStampa\obj\Debug\ConsoleStampa.csproj.AssemblyReference.cache
+C:\Users\simone.mazzacano.ITT\source\repos\ConsoleStampa\ConsoleStampa\obj\Debug\ConsoleStampa.csproj.CoreCompileInputs.cache
+C:\Users\simone.mazzacano.ITT\source\repos\ConsoleStampa\ConsoleStampa\obj\Debug\ConsoleStampa.exe
+C:\Users\simone.mazzacano.ITT\source\repos\ConsoleStampa\ConsoleStampa\obj\Debug\ConsoleStampa.pdb
